@@ -6,7 +6,7 @@
 1. Tải source code về:
 
    ```bash
-   git clone https://github.com/githubcuaan/Cinema_ProjectOOP_nhom8.git
+   git clone https://github.com/tdguon/cinema_projectOOP.git
    ```
 2. Import cơ sở dữ liệu trong folder database trong source code.
 
